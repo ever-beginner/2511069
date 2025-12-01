@@ -12,5 +12,7 @@ Repository for practice in Software System Development 2025
 ...
   * Hello! I'm Yutaro!
   * Love from IS!
+  * Nice to meet you. I'm Ryotaro Kanae.
+  * I am extremely busy with my research right now.
 * bottom:
 ####
