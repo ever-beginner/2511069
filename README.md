@@ -2,15 +2,17 @@
 
 Repository for practice in Software System Development 2025
 
-## Add your ~~original~~ unique line below starting with '* ' to be formatted as an item.
+## Add your ~~original~~ unique line below starting with '\* ' to be formatted as an item.
 
 ### Do not expose your private information because this is a public repository
+
 ## put your lines between top and bottom lines
 
 * top:
+
   * Hi this is Hajimu!
   * Hello! I'm Yutaro!
-  * こんにちは、パコーンです\0w0/!
+  * こんにちは、パコーンです\\0w0/!
   * Hi I'm Koki Shibata!
   * Love from IS!
   * North London Is RED!
@@ -26,5 +28,10 @@ Repository for practice in Software System Development 2025
   * What a relief.
   * Enjoy coding!
   * It's been getting cold lately.
+  * "The programmer, like the poet, works only slightly removed from pure thought-stuff." - Frederick Brooks
+
 * bottom:
-####
+
+#### 
+
+
