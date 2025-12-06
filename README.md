@@ -32,7 +32,7 @@ Repository for practice in Software System Development 2025
 ####
   * It's been getting cold lately.
   * "The programmer, like the poet, works only slightly removed from pure thought-stuff." - Frederick Brooks
-
+  * Greetings, everyone!
 * bottom:
 
 #### 
